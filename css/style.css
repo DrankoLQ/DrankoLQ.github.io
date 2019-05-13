@@ -1,6 +1,5 @@
 @charset 'UTF-8';
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700');
-@import url('font-awesome.min.css');
 
 body, input, textarea, select {
     font-family: 'Open Sans', sans-serif;
@@ -692,4 +691,12 @@ ol.default li {
         display: inline-block;
         width: 100%;
     }
+}
+
+.font-size-50px {
+    font-size: 50px;
+}
+
+.text-decoration-none {
+    text-decoration: none;
 }
